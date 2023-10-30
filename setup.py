@@ -4,7 +4,7 @@ with open("README.md", "r") as f:
     long_description = f.read()
 
 setup(
-    name="knight-auth",
+    name="knight-auth-2",
     version="0.2.0",
     description='Authentication for django-ninja, KNOX inspired',
     long_description=long_description,
