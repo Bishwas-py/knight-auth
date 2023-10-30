@@ -25,7 +25,7 @@ setup(
         'Intended Audience :: Developers',
     ],
     packages=find_packages(exclude=['core']),
-    python_requires='>=3.11.4',
+    python_requires='>=3.11.2',
     install_requires=[
         'django>=4.2.4',
         'django-ninja>=0.22.2'
